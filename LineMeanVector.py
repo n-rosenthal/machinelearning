@@ -23,3 +23,4 @@ def line_mean(matrix: List[List[float]], mode: str) -> List[float]:
         case _:
             return [];
     return [];
+
